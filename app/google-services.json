@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622489721212",
+    "project_id": "meu-portifolio-ed9bc",
+    "storage_bucket": "meu-portifolio-ed9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622489721212:android:fef1e35f8980986119acf9",
+        "android_client_info": {
+          "package_name": "com.example.meuportifolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1_Vz4dkVvMmeTFStLZH_AqF8uR_hK6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
